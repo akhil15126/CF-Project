@@ -1,5 +1,8 @@
 # Collaborative Filtering Project
 
+## Data pre-processing
+Before feeding to the network, the cell-genes data is pre-processed using the process.m procedure in (https://github.com/aanchalMongia/McImpute_scRNAseq).
+
 ## Result Reproducability
 
 We were able to reproduce results by He et al. (https://github.com/duxy-me/ConvNCF) on Yelp dataset.
