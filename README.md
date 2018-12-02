@@ -8,7 +8,7 @@ We were able to reproduce results by He et al. (https://github.com/duxy-me/ConvN
 
 
 Metric | Highest value in He et al.'s experiments | Highest value in our Experiments |
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+--- | --- | --- 
 HR@10 | 0.31  | 0.31 
 NDCG@10  | 0.162  | 0.16
 
